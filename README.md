@@ -19,6 +19,6 @@ $ pkg install bash
 
 $ cd dark-pulsa
 
-$ unzip pulsa.zip && rm pulsa.zip && clear 
+$ unzip darkpulsa.zip && rm pulsa.zip && clear 
 
 $ python2 pulsa.py
