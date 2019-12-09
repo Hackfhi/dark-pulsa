@@ -5,7 +5,7 @@ Tols Untuk hack pulsa
 
 **Jangan Di Gunakan Untuk Sembarangan Gunakan **
 
-#[link ke petanikode](https://wa.me/6283129621297?text=)
+[**Whatsapp Me**](https://wa.me/6283129621297?text=)
 
 # Cara pemakaian
 
