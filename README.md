@@ -1,21 +1,24 @@
 # dark-pulsa
 Tols Untuk hack pulsa
+
 ![PicsArt_12-07-04 01 49](https://user-images.githubusercontent.com/43435359/70405133-b7c3ab00-1a6e-11ea-8d3c-331bbcf97640.jpg)
-Subscribe Fahmi GG
 
+**Jangan Di Gunakan Untuk Sembarangan Gunakan **
 
-Cara pemakaian
+#[link ke petanikode](https://wa.me/6283129621297?text=)
 
-pkg install unzip
+# Cara pemakaian
 
-pkg install neofetch
+$ pkg install unzip
 
-pkg install python2 && python
+$ pkg install neofetch
+ 
+$ pkg install python2 && python
 
-pkg install bash
+$ pkg install bash
 
-cd dark-pulsa
+$ cd dark-pulsa
 
-unzip pulsa.zip && rm pulsa.zip && clear 
+$ unzip pulsa.zip && rm pulsa.zip && clear 
 
-python2 pulsa.py
+$ python2 pulsa.py
