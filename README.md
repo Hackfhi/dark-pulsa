@@ -7,9 +7,15 @@ Subscribe Fahmi GG
 Cara pemakaian
 
 pkg install unzip
+
 pkg install neofetch
+
 pkg install python2 && python
+
 pkg install bash
+
 cd dark-pulsa
+
 unzip pulsa.zip 
+
 python2 pulsa.py
